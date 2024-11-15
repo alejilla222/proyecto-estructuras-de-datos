@@ -4,11 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5029ae4f-4867-43e9-972a-c3d1d249077f" name="Changes" comment="se crea el repositorio del proyecto final de estructuras de datos." />
+    <list default="true" id="5029ae4f-4867-43e9-972a-c3d1d249077f" name="Changes" comment="se crea el repositorio del proyecto final de estructuras de datos.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ProcesoProgramado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/archivo/SolicituDeEntrantes/prueba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/archivo/SolicitudesEnProceso/archivos.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dominio/Cotizante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dominio/Hijos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dominio/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dominio/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dominio/Publico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/AprobarCotizantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Carpetas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utilidades/LectorArchivosUtilidades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utilidades/ListEnlazada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utilidades/csv/GestorDeEntidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utilidades/csv/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utilidades/csv/addDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731683936511</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="se crea el repositorio del proyecto final de estructuras de datos.">
+      <option name="closed" value="true" />
+      <created>1731684484240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731684484240</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
